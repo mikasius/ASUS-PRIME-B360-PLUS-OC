@@ -5,6 +5,7 @@ Here is an OpenCore setup
 Spec:
 - MB: ASUS-PRIME-B360-PLUS
 - CPU: i7-8700K
+- GPU: Intel UHD630 (dual hdmi-monitors)
 - Audio: ALC887
 - Network: Realtek8111
 
