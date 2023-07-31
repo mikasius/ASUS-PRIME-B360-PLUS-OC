@@ -13,4 +13,4 @@ Not working:
 - Bluetooth (Airport, etc.)
 - Wifi
 
-[!screenshot](./img/info.png)
+![screenshot](./img/info.png)
