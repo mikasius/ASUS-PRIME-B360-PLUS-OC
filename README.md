@@ -11,4 +11,6 @@ Spec:
 
 Not working:
 - Bluetooth (Airport, etc.)
-- Wifi 
+- Wifi
+
+[!screenshot](./img/info.png)
